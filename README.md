@@ -7,11 +7,9 @@ It's a simple and extensible Vim configuration ready to use.
 
 ## Installation
 
-    # Clone the repository
     git clone https://github.com/TaurusOlson/vim-base-pack.git ~/.vim
+    cd ~/.vim && ./setup.sh
 
-    # Create a symlink
-    ln -s ~/.vim/vimrc ~/.vimrc
 
 
 ## What's inside of the pack?
