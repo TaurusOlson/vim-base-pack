@@ -21,9 +21,13 @@ nnoremap <C-l> <C-w>l
 " Plugins {{{1
 call plug#begin('~/.vim/bundle')
 Plug 'tpope/vim-sensible'
+
+" Add your plugins here
+
 call plug#end()
 
 
 " Options {{{1
+" Add your options here
 
 " vim: set fdm=marker:
